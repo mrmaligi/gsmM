@@ -32,3 +32,31 @@ h1 {
   padding: 10px 20px;
   font-size: 1em;
 }
+/* Add at the end of styles.css */
+
+.template-editor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.8);
+  color: #fff;
+  padding-top: 50px;
+}
+
+.template-editor h2 {
+  margin-top: 0;
+}
+
+.template-editor input {
+  width: 80%;
+  padding: 10px;
+  font-size: 1em;
+}
+
+.template-editor button {
+  padding: 10px 20px;
+  font-size: 1em;
+  margin: 5px;
+}

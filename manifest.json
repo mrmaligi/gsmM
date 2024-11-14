@@ -1,0 +1,8 @@
+{
+  "name": "GSM Relay Controller",
+  "short_name": "GSM Controller",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3"
+}
